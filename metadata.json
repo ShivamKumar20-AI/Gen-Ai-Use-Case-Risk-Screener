@@ -1,0 +1,6 @@
+{
+  "name": "GenAI Use Case Risk Screener",
+  "description": "Helps AI compliance specialists perform first-pass reviews of proposed GenAI use cases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
